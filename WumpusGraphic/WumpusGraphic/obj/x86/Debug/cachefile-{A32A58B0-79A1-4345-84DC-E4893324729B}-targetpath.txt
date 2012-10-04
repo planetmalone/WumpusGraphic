@@ -1,0 +1,7 @@
+Content\images\piece.xnb
+Content\myFont.xnb
+Content\images\dot.xnb
+Content\images\move.xnb
+Content\images\quit.xnb
+Content\images\shoot.xnb
+Content\images\border.xnb

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\piece.png</Source>
+      <Name>images\piece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\piece.xnb</Output>
+      <Time>2012-09-29T17:46:58.0374919-05:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2012-09-29T16:18:28.4878031-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\dot.png</Source>
+      <Name>images\dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\dot.xnb</Output>
+      <Time>2012-09-29T19:08:56.4298079-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\move.png</Source>
+      <Name>images\move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\move.xnb</Output>
+      <Time>2012-09-30T17:34:46.384616-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\quit.png</Source>
+      <Name>images\quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\quit.xnb</Output>
+      <Time>2012-09-30T17:43:37.9340189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\shoot.png</Source>
+      <Name>images\shoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\shoot.xnb</Output>
+      <Time>2012-09-30T17:37:47.6169819-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\border.png</Source>
+      <Name>images\border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\border.xnb</Output>
+      <Time>2012-09-30T18:05:47.05004-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphicContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphicContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-26T16:20:01.7968635-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

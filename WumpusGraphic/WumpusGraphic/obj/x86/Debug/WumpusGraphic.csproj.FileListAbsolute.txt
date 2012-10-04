@@ -1,0 +1,13 @@
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\WumpusGraphic.exe
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\WumpusGraphic.pdb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\obj\x86\Debug\WumpusGraphic.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\obj\x86\Debug\WumpusGraphic.exe
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\obj\x86\Debug\WumpusGraphic.pdb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\piece.xnb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\myFont.xnb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\dot.xnb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\move.xnb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\quit.xnb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\shoot.xnb
+c:\users\sean\documents\visual studio 2010\Projects\WumpusGraphic\WumpusGraphic\WumpusGraphic\bin\x86\Debug\Content\images\border.xnb
